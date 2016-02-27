@@ -1,0 +1,56 @@
+body{
+	background:black;
+}
+.container{	
+	background:#FF4500;
+}
+.myimg{
+	width : 200px;
+	height : 200px;
+}
+.clear {clear: both;}
+.myh{
+	display:inline;
+}
+textarea{
+	display:inline;
+	
+}
+.name{
+	background:#ADD8E6;
+}
+.obj{
+	background:#66CDAA;
+}
+.edu{
+	background:#66CDAA;
+}
+.tec{
+	background:	#9ACD32;
+}
+.softskills{
+	background:#66CDAA;
+}
+.langs{
+	background:#66CDAA;
+}
+
+.tec{
+	background:#66CDAA;
+}
+.pinfo{
+	background:#66CDAA;
+}
+.ref{
+	background:#66CDAA;
+}
+
+.con{
+	background:#66CDAA;
+}
+
+
+
+
+
+
